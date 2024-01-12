@@ -1,0 +1,371 @@
+.top-banner {
+  background-color: #ff9500;
+  height: 55px;
+  font-size: 18px;
+}
+.nav{
+    margin: 0px 132px;
+}
+.nav-list{
+    font-size: 18px;
+}
+.submit-btn{
+    width: 117px;
+    height: 55px;
+    font-size: 18px;
+}
+.login-btn{
+    background-color: #ff9500;
+    color: #FFFFFF;
+    width: 117px;
+    height: 55px;
+    font-size: 18px;
+}
+
+.cont1{
+    margin-top: 100px;
+    
+    height: 337px;
+    padding: 50px;
+    
+    
+}
+.cont1-icon{
+    color: black;
+}
+.cont1-text1{
+    color: #ff9500;
+    font-size: 48px;
+    font-weight: 600;
+    
+}
+.cont1-text2{
+    font-size: 48px;
+    font-weight: 600;
+}
+.cont1-text3{
+    font-size: 38px;
+    margin-top: 20px;
+    font-weight: 400;
+}
+.cont1-text4{
+    font-size: 18px;
+    margin-bottom: 35px;
+}
+
+.cont1-btn1{
+    background-color: #ff9500;
+    width: 195px;
+    height: 63px;
+    
+}
+.cont1-btn2{
+    width: 195px;
+    height: 63px;
+}
+
+
+.cont2{
+    margin-top: 100px;
+    gap: 125px;
+    width: 1595px;
+    height: 154px;
+    
+}
+
+.b-caption{
+    font-size: 48px;
+    color: #262626;
+    font-weight: 600;
+}
+.b-para{
+    font-size: 18px;
+    width: 1177px;
+    height: 54px;
+}
+.b-btn{
+    width: 120px;
+    height: 63px;
+    margin-left: auto;
+    background-color: #FCFCFD;
+}
+
+
+.cardsub-1{
+    margin-left: 300px;
+    font-size: 80px;
+    
+}
+.cardsub-2{
+    font-size: 24px;
+    color: black;
+    margin-top: 30px;
+    font-family: 600;
+}
+.cardsub-3{
+    font-size: 18px;
+    font-family: 400;
+}
+.cardsub-4{
+    color: #ff9500;
+    margin-top: 50px;
+    margin-left: 350px;
+}
+
+
+
+.card2sub-1{
+    font-size: 18px;
+
+}
+.card2sub-2{
+    font-size: 18px;
+    margin-left: 50px;
+}
+.card2sub-3{
+    font-size: 18px;
+    margin-left: auto;
+    font-weight: 500;
+}
+.card2sub-4{
+    font-size: 24px;
+
+}
+.card2sub-5{
+    font-size: 18px;
+
+}
+.card2sub-btn{
+    width: 700px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #262626;
+    margin-top: 25px;
+    background-color: #F7F7F8;
+}
+
+
+
+
+.test-para{
+    font-size: 18px;
+    text-align: start;
+}
+.test-caption{
+    margin-right: 405px;
+    margin-top: 16px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.test-btn{
+    font-size: 18px;
+    color: #262626;
+    font-weight: 600;
+    background-color: #F7F7F8;
+    width: 150px;
+    height: 40px;  
+}
+
+
+
+.pm-btn{
+    width: 120px;
+    height: 55px;
+    margin-left: 80px;
+    font-size: 18px;
+    background-color: #ff9500;
+}
+.py-btn{
+    width: 120px;
+    height: 55px;
+    margin-left: auto;
+    font-size: 18px;
+}
+
+
+
+.price-card{
+    width: 700px;
+    
+}
+.pr-sub1{
+    font-size: 22px;
+    font-weight: 600;
+    background-color: #FFF9F0;
+}
+.pr-sub2{
+    font-size: 80px;
+    font-weight: 600;
+}
+.pr-sub3{
+    font-size: 20px;
+}
+.pr-sub4{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+.pr-ul{
+    font-size: 18px;
+    gap: 30px;
+    margin-top: 30px;
+}
+.pr-btn{
+    background-color: #ff9500;
+    margin-left: 120px;
+}
+
+
+
+.f-sub1{
+    font-size: 48px;
+    margin-left: 70px;
+    font-weight: 600;
+}
+.f-sub2{
+    font-size: 18px;
+    margin-left: 70px;
+    
+}
+.f-btn{
+    margin-left: 70px;
+    font-size: 18px;
+}
+
+
+.footer-1{
+    background-color: #FFFFFF;
+    margin-left: 200px;
+}
+.footer-2{
+    background-color: #FFFFFF;
+    font-size: 18px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+/* --------------------------------------------------------------------------- */
+@media (max-width:600px){
+    .cont2-img4{
+        display: none;
+    }
+    
+    
+    .cont3-img{
+        width: 100%;
+        height: auto;
+    }
+    .card2sub-btn{
+        width: 500px;
+         font-size: 18px;
+        font-weight: 600;
+        color: #262626;
+        margin-top: 25px;
+        background-color: #F7F7F8;
+    }
+    .pm-btn{
+        width: 120px;
+        height: 55px;
+        margin-top: 60px;
+        margin-left: 80px;
+        font-size: 18px;
+        background-color: #ff9500;
+    }
+    .py-btn{
+        width: 120px;
+        height: 55px;
+        margin-top: 60px;
+        margin-right:200px ;
+        font-size: 18px;
+    }
+    .footer-main{
+        margin-right:177px ;
+    }
+  
+}
+
+
+
+
+/* --------------------------------------------------------------------------- */
+
+.login-page{
+    margin-top: 100px;
+}
+.login-page1{
+    width: 829px;
+}
+.login-page2{
+    margin-top: 50px;
+}
+.login-form{
+    margin-left: 250px;
+}
+.login-form-h{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600;
+}
+.login-form-p{
+    text-align: center;
+    font-size: 18px;
+}
+.loginpage-btn{
+    background-color: #ff9500;
+    width: 300px;
+    margin-left: 50px;
+}
+.login-or{
+    margin-top: 20px;
+}
+.login-sign{
+    margin-left: 10px;
+    text-decoration: underline;
+}
+
+/* ----------------------------------------------- */
+
+
+
+
+
+
+/* ----------------------------------------------- */
+.p-caption{
+    font-size: 48px;
+    color: #262626;
+    font-weight: 600;
+}
+.p-para{
+    font-size: 18px;
+    width: 800px;
+    height: 54px;
+    
+}
+.ppm-btn{
+    width: 120px;
+    height: 55px;
+    margin-left: 650px;
+    margin-top: 200px;
+    font-size: 18px;
+    background-color: #ff9500;
+}
+.ppy-btn{
+    width: 120px;
+    height: 55px;
+    margin-left: auto;
+    margin-top: 200px;
+    font-size: 18px;
+}
+/* ----------------------------------------------- */
+
+
+
+
+
+
+
+/* ----------------------------------------------- */
